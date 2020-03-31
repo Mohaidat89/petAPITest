@@ -1,0 +1,5 @@
+apiHelpers/payloads/PetCategory.class
+apiHelpers/payloads/Pet.class
+apiHelpers/payloads/PetTag.class
+apiHelpers/payloads/Pet$PetBuilder.class
+apiHelpers/URLs.class

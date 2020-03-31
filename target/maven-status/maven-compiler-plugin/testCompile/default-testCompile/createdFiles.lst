@@ -1,0 +1,4 @@
+UpdatePetTest.class
+GetPetsByAvailableStatusTest.class
+AddNewPetTest.class
+DeletePetTest.class

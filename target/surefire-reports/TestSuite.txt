@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.211 s <<< FAILURE! - in TestSuite
+testDeletePet(DeletePetTest)  Time elapsed: 2.117 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <404>.
+
+	at DeletePetTest.testDeletePet(DeletePetTest.java:18)
+
